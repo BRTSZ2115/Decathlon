@@ -24,5 +24,5 @@ mean2 = orders2['value'].mean()
 mean2 = round(mean2, 2)
 
 #wypisanie odpowiedzi
-print(f'Średnia wartośc zamówienia przy założeniu że istnieją również gigantyczne zamówienia hurtowe to {mean} zł')
-print(f'Średnia wartośc zamówienia detalicznego zakładając że zamówienie detaliczne kończy się na 130 tyś zł, to {mean2} zł')
+print(f'Średnia wartość zamówienia przy założeniu że istnieją również gigantyczne zamówienia hurtowe to {mean} zł')
+print(f'Średnia wartość zamówienia detalicznego zakładając że zamówienie detaliczne kończy się na 130 tyś zł, to {mean2} zł')

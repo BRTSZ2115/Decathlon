@@ -20,7 +20,7 @@ min = sports['sport'].value_counts().idxmin()
 
 #wydrukowanie odpowiedzi
 print(f'Najczęściej uprawianym sportem przez naszych klientów jest {max}, czyli aż {max_l} osób uprawia {max}.')
-print(f'Najżadziej uprawianym sportem przez naszych klientów jest {min}, czyli {min_l} uprawia {min}.')
+print(f'Najrzadziej uprawianym sportem przez naszych klientów jest {min}, czyli {min_l} uprawia {min}.')
 
 
 
